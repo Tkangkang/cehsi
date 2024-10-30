@@ -1,0 +1,23 @@
+{
+    "name": "taokang/niubi",
+    "description": "这是一个神奇的代码",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "18768861838"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "MyVendor\\MyPackage\\": "src/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    }
+}
