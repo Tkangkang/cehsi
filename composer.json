@@ -8,7 +8,8 @@
             "name": "18768861838"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "guzzlehttp/guzzle": "^7.9"
     },

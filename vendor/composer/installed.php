@@ -3,7 +3,7 @@
         'name' => 'taokang/niubi',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '5c5416e45c897a083f617cf3c7a31f73177b85a9',
+        'reference' => '57c7c4aee40209eaa955bb5aa6c563a4324b6f0d',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -346,7 +346,7 @@
         'taokang/niubi' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '5c5416e45c897a083f617cf3c7a31f73177b85a9',
+            'reference' => '57c7c4aee40209eaa955bb5aa6c563a4324b6f0d',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
